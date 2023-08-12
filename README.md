@@ -59,6 +59,6 @@ Feel free to reach out to me if you have any questions or collaboration ideas:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=heet2312&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heet2312&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/><br/>
-[![](https://visitcount.itsvg.in/api?id=heet2312&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=heet2312)
 <hr/>
 Let's create something amazing together😊!
